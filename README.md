@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasPFAva
 - 👀 I’m interested in the C programming language family
 - 🌱 I’m currently learning Python and Webdevelopment
-- 💞️ I’m looking to collaborate on our schools project
+- 💞️ I’m looking to collaborate on the projects of our school
 - 📫 How to reach me: None
 
 <!---
